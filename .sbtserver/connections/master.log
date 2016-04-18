@@ -1,0 +1,25 @@
+New log file opened at Mon Apr 18 10:26:08 CEST 2016 by 14373@WTL000113
+Taking next connection to: 35131
+New client attempting to connect on port: 56874-35131
+  Address = /127.0.1.1:35131
+This client on port 56874 has uuid 9f5f6ca5-92e4-4bfc-8432-0638ac17bd85 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-9f5f6ca5-92e4-4bfc-8432-0638ac17bd85
+Taking next connection to: 35131
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 35131
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 35131
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 35131
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 35131
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 35131
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 35131
